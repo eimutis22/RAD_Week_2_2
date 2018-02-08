@@ -188,7 +188,14 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\ApplicationMigrations\Configuration.cs" />
+    <Compile Include="Migrations\BusinessMigrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\BusinessModels\BusinessDBContext.cs" />
+    <Compile Include="Models\BusinessModels\Customer.cs" />
+    <Compile Include="Models\BusinessModels\Order.cs" />
+    <Compile Include="Models\BusinessModels\OrderLine.cs" />
+    <Compile Include="Models\BusinessModels\Product.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

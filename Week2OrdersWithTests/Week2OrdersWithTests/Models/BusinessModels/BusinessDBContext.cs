@@ -4,11 +4,11 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace TestingOrderExample.Models
+namespace Week2OrdersWithTests.Models
 {
     public class BusinessDBContext : DbContext
     {
-        public BusinessDBContext() : base("week3OrdersExample")
+        public BusinessDBContext() : base("Week2OrdersWithTests")
         {
             
         }
