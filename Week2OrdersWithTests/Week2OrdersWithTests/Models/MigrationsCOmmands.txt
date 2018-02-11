@@ -1,0 +1,5 @@
+﻿Enable-Migrations -ContextTypeName Week2OrdersWithTests.Models.BusinessDBContext -MigrationsDirectory Migrations\BusinessMigrations
+
+Add-migration -ConfigurationTypeName Week2OrdersWithTests.Migrations.ApplicationMigrations.Configuration
+
+Update-database -ConfigurationTypeName Week2OrdersWithTests.Migrations.ApplicationMigrations.Configuration
