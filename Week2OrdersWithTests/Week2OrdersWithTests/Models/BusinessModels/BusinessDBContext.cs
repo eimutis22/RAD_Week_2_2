@@ -8,7 +8,7 @@ namespace Week2OrdersWithTests.Models
 {
     public class BusinessDBContext : DbContext
     {
-        public BusinessDBContext() : base("Week2OrdersWithTests")
+        public BusinessDBContext() : base("DefaultConnection")
         {
             
         }
