@@ -63,3 +63,5 @@ C:\Users\Eimutis\Documents\College Stuff\Semester2\RAD302\Week2\Week2.2\RAD_Week
 C:\Users\Eimutis\Documents\College Stuff\Semester2\RAD302\Week2\Week2.2\RAD_Week_2_2\Week2OrdersWithTests\Week2OrdersWithTests\obj\Debug\Week2OrdersWithTests.Migrations.ApplicationMigrations.Initial.resources
 C:\Users\Eimutis\Documents\College Stuff\Semester2\RAD302\Week2\Week2.2\RAD_Week_2_2\Week2OrdersWithTests\Week2OrdersWithTests\obj\Debug\Week2OrdersWithTests.csproj.GenerateResource.Cache
 C:\Users\Eimutis\Documents\College Stuff\Semester2\RAD302\Week2\Week2.2\RAD_Week_2_2\Week2OrdersWithTests\Week2OrdersWithTests\obj\Debug\Week2OrdersWithTests.Migrations.BusinessMigrations.Initial.resources
+C:\Users\Eimutis\Documents\College Stuff\Semester2\RAD302\Week2\Week2.2\RAD_Week_2_2\Week2OrdersWithTests\Week2OrdersWithTests\bin\CsvHelper.dll
+C:\Users\Eimutis\Documents\College Stuff\Semester2\RAD302\Week2\Week2.2\RAD_Week_2_2\Week2OrdersWithTests\Week2OrdersWithTests\bin\CsvHelper.xml
